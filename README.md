@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **MERN projects**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-five-eta-58.vercel.app/](https://personal-portfolio-five-eta-58.vercel.app/)
 
