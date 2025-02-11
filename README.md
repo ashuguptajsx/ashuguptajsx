@@ -1,8 +1,8 @@
 <h1 align="center">Hey, Aashutosh this side.</h1>
 <h3 align="center">Full Stack Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashugupta14&label=Profile%20views&color=0e75b6&style=flat" alt="ashugupta14" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashuguptajsx&label=Profile%20views&color=0e75b6&style=flat" alt="ashugupta14" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashugupta14&theme=darkhub" alt="ashugupta14" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashuguptajsx&theme=darkhub" alt="ashugupta14" /></a> </p>
 
 - 🔭 I’m currently working on Full Stack Projects
 - 🌱 I’m currently learning Blockchain develoment 
