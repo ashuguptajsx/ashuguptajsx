@@ -5,7 +5,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashuguptajsx&theme=darkhub" alt="ashugupta14" /></a> </p>
 
 - 🔭 I’m currently working on Full Stack Projects
-- 🌱 I’m currently learning Blockchain develoment 
 - 💬 Ask me about **React, Javascript, NodeJS, APIs, ExpressJS, MongoDB, Mongoose**
 - 📫 How to reach me **ashugupta1403@gmail.com**
 - 👨‍💻 All of my projects are available at **aashutoshgupta.vercel.app**
