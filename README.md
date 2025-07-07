@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Full Stack Projects
 - 💬 Ask me about **React, Javascript, NodeJS, APIs, ExpressJS, MongoDB, Mongoose**
 - 📫 How to reach me **ashugupta1403@gmail.com**
-- 👨‍💻 All of my projects are available at **aashutoshgupta.vercel.app**
+- 👨‍💻 All of my projects are available at **ashuguptajsx.vercel.app**
 
 
 <a href="https://www.linkedin.com/in/aashutosh-gupta-9a089622b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
