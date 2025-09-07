@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./ME.png" alt="Banner" width="100%" />
+</p>
 <h1 align="center">Hey, Aashutosh this side.</h1>
 <h3 align="center">Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashuguptajsx&label=Profile%20views&color=0e75b6&style=flat" alt="ashuguptajsx" /> </p>
