@@ -1,5 +1,5 @@
 <h1 align="center">Hey, Aashutosh this side.</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer.</h3>
 <p align="center">
   <img src="./ME.png" alt="Banner" width="100%" />
 </p>
